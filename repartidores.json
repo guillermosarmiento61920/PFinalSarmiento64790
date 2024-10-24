@@ -1,0 +1,26 @@
+[
+    {
+        "repartidor": "Juancito",
+        "entregas": 5,
+        "iniTurno": 9,
+        "finTurno": 17
+    },
+    {
+        "repartidor": "Pedrito",
+        "entregas": 1,
+        "iniTurno": 9,
+        "finTurno": 12
+    },
+    {
+        "repartidor": "Panchito",
+        "entregas": 33,
+        "iniTurno": 6,
+        "finTurno": 18
+    },
+    {
+        "repartidor": "Josesito",
+        "entregas": 0,
+        "iniTurno": 9,
+        "finTurno": 12
+    }
+]

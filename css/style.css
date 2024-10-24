@@ -1,0 +1,71 @@
+/* body */
+.fondoColor {
+    background: rgb(255, 0, 0);
+    background: linear-gradient(90deg, rgb(250, 47, 47) 0%, rgb(97, 7, 7) 100%);
+}
+body {
+    color: black;
+    font-weight:bold;
+}
+
+/* header */
+.alinearDer {
+    text-align: end;
+    margin-right: 5%;
+}
+
+.inlineDisplay {
+    display: inline;
+}
+
+/* main */
+header h1 {
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-width: 1px;
+    border-radius: 15px;
+    border-style: solid;
+    background-color: rgb(75, 75, 75);
+    color: black;
+}
+
+h2,
+p {
+    color: rgb(161, 161, 161);
+}
+
+main .col,
+.boton,
+header .row {
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
+
+header .row {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+header .col {
+    text-align: center;
+}
+
+.fotoProducto {
+    width: 200px;
+    height: 200px;
+}
+
+.subrayado {
+    text-decoration: underline;
+}
+
+.ocultar {
+    display: none;
+}
+
+/* footer */
+h3 {
+    text-decoration: underline;
+}
